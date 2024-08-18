@@ -1,1 +1,1 @@
-print("De ahi vengo >:3")
+print("De ahi vengo")
